@@ -1,6 +1,6 @@
 **:shipit: Hi, I’m @mssmr**
-- :art: Code pallete: HTML, CSS, jS, php, sql, py, R
--  
+- :art: Code pallete: HTML, CSS, jS, php, SQL, Py, R
+- :construction_worker: Passionate in web development, creative coding, data art & moving objects
 - :books: I’m currently learning py
 - :space_invader: I’m looking to collaborate on mixed projects where data meets art
 - :postal_horn: Feel free to leave a message!
