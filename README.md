@@ -1,8 +1,9 @@
 **:shipit: Hi, I’m @mssmr**
-- 👀 I’m interested in HTML, CSS, jS, php, sql, py, R & data art 
-- 🌱 I’m currently learning py
-- 💞️ I’m looking to collaborate on mixed projects where data meets art
-- 📫 How to reach me leave a message
+- :art: Code pallete: HTML, CSS, jS, php, sql, py, R
+-  
+- :books: I’m currently learning py
+- :space_invader: I’m looking to collaborate on mixed projects where data meets art
+- :postal_horn: Feel free to leave a message!
 
 <!---
 mssmr/mssmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
