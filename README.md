@@ -1,4 +1,4 @@
-# :shipit: Hi, I’m @mssmr
+**:shipit: Hi, I’m @mssmr**
 - 👀 I’m interested in HTML, CSS, jS, php, sql, py, R & data art 
 - 🌱 I’m currently learning py
 - 💞️ I’m looking to collaborate on mixed projects where data meets art
