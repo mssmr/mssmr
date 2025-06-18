@@ -1,5 +1,5 @@
 **:shipit: Hi, I’m @mssmr**
-- :art: Next.js > React > Tailwind.css > MongoDB
+- :art: HTML + Sass + JavaScript + MongoDB
 - :construction_worker: Passionate in web development, creative coding, data art & moving objects
 - :space_invader: I’m looking to collaborate on mixed projects where data meets art
 - :postal_horn: Feel free to leave a message!
