@@ -4,7 +4,7 @@
 - :space_invader: I’m looking to collaborate on mixed projects where data meets art
 - :postal_horn: Feel free to leave a message!
 
-*👽 are more fun when 👻*
+*👽 are more fun than 👻*
 
 <!---
 mssmr/mssmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
